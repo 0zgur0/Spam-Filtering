@@ -236,9 +236,9 @@ rec = float(TP)/float((TP+FN))
 acc = float(TP+TN)/float(len(crossPredict))    
 
 
-print "Mean Accuracy: " + str(acc)
-print "Mean Precision: " + str(prec)
-print "Mean Recall: " + str(rec)
+print "Accuracy: " + str(acc)
+print "Precision: " + str(prec)
+print "Recall: " + str(rec)
 
 """
 print "FP List"
