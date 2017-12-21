@@ -1,2 +1,2 @@
 # Spam-Filtering
-Spam Filtering Using SVM and Naive Bayes
+Python code for spam filtering using SVM and naive bayes
